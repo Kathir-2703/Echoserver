@@ -76,23 +76,9 @@ Testing the server and client
 
 ## OUTPUT:
 
-Run server first
+![Screenshot from 2023-05-13 05-16-19](https://github.com/Kathir-2703/Echoserver/assets/64436376/9ea1858a-fe00-419d-9231-46b0392f048f)
 
-┌──(kali㉿kali)-[~]
-
-└─$ python echoserver.py
-
-Then in another terminal run client
-
-──(kali㉿kali)-[~]
-
-└─$ python echoclient.py
-
-Received b'Hello, world'
-
-
-
-
+![Screenshot from 2023-05-13 04-55-14](https://github.com/Kathir-2703/Echoserver/assets/64436376/0b472b77-964b-40a1-86a2-546e1478d3a0)
 
 ## RESULT:
 The program is executed successfully
